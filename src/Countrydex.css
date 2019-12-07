@@ -1,0 +1,18 @@
+.Countrydex {
+    text-align: center;
+}
+
+.Countrydex-cards {
+    display: flex;
+    /* using "flexbox" */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Countrydex-winner {
+    color: #4caf50;
+}
+
+.Countrydex-loser {
+    color: #e91e63;
+}
